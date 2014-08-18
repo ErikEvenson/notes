@@ -12,7 +12,7 @@
 - [Homebrew cask](http://caskroom.io/) 0.39.3 - "Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike."
 - [iOS]()
 - [iTunes]() 11.3.1
-- [Kerbal Space Program](https://kerbalspaceprogram.com/) 0.24.0.549
+- [Kerbal Space Program](https://kerbalspaceprogram.com/) 0.24.2.559
 - [LastPass Chrome Extension]() 3.1.53 [Changelog](https://lastpass.com/upgrade.php)
 - [Minecraft]() 1.7.10
 - [Minecraft Forge]() - Installation: http://agilewarrior.wordpress.com/2013/12/22/how-to-install-minecraft-forge-for-mac/
