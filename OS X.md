@@ -1,6 +1,6 @@
 - [Alfred (OS X)](http://www.alfredapp.com/) 2.4 (279) [Changelog](http://www.alfredapp.com/changelog/) [Powerpack license](https://mail.google.com/mail/u/0/?shva=1#search/alfred/145c85ee939f2df1) - Setting synced via BTS settings folder at `~/Bittorrent Sync/Sync/Applications/Alfred`.
-- [Atom (OS X)](https://atom.io/) 0.113.0 - A hackable text editor for the 21st Century.
-- [Backblaze (iOS/OS X/Web)](http://www.backblaze.com/) 2.5.1.750
+- [Atom (OS X)](https://atom.io/) 0.123.0 - "A hackable text editor for the 21st Century."
+- [Backblaze (iOS/OS X/Web)](http://www.backblaze.com/) 2.5.1.750 - 
 - [Bittorrent Sync](http://www.bittorrent.com/sync) iOS 1.3.41/OS X 1.3.109 - "Secure, unlimited file-syncing. No cloud required."
 - [Evernote]()
 - [Dropbox]() 2.10.28
@@ -22,6 +22,7 @@
 - [OS X]() 10.9.4
 - [Paw]()
 - [SourceTree](http://www.sourcetreeapp.com/) 1.9.6 - OS X: A free Git & Mercurial client for Windows or Mac.
+- [Spectacle](http://spectacleapp.com/) 0.8.5 (14) - "Window control with simple, customizable keyboard shortcuts."
 - [Sublime Text]()
 - [Steam]()
 - [Transmission]() 2.84
