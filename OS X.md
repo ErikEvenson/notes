@@ -1,3 +1,5 @@
+# OS X Tools
+
 - [Alfred (OS X)](http://www.alfredapp.com/) 2.4 (279) [Changelog](http://www.alfredapp.com/changelog/) [Powerpack license](https://mail.google.com/mail/u/0/?shva=1#search/alfred/145c85ee939f2df1) - Setting synced via BTS settings folder at `~/Bittorrent Sync/Sync/Applications/Alfred`.
 - [Atom (OS X)](https://atom.io/) 0.123.0 - "A hackable text editor for the 21st Century."
 - [Backblaze (iOS/OS X/Web)](http://www.backblaze.com/) 2.5.1.750 - 
@@ -10,7 +12,6 @@
 - [Google Drive]()
 - [Homebrew](http://brew.sh/)
 - [Homebrew cask](http://caskroom.io/) 0.39.3 - "Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike."
-- [iOS]()
 - [iTunes]() 11.3.1
 - [Kerbal Space Program](https://kerbalspaceprogram.com/) 0.24.2.559
 - [LastPass Chrome Extension]() 3.1.53 [Changelog](https://lastpass.com/upgrade.php)
