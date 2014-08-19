@@ -39,7 +39,7 @@ These are fundamental development tools that I pay the most attention to.  Insta
 - [ubuntu](http://www.ubuntu.com/) 14.04 as desktop and 12.04 as virtual machine.
 	- bower-installed.
 - [vagrant]()
-- [yoeman]()
+- [yoeman](http://yeoman.io/) 1.2.1 - Use development tools at [webcore](https://github.com/ErikEvenson/webcore).
 	- npm-installed.
 
 ### Secondary development stack
