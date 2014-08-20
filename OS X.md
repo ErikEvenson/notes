@@ -25,7 +25,7 @@
 - [SourceTree](http://www.sourcetreeapp.com/) 1.9.7 [Changelog](http://sourcetreeapp.com/update/ReleaseNotes.html) - "OS X: A free Git & Mercurial client for Windows or Mac."
   - Install command line tools via the Sourcetree menu.
 - [Spectacle](http://spectacleapp.com/) 0.8.5 (14) - "Window control with simple, customizable keyboard shortcuts."
-- [Sublime Text]()
+- [Sublime Text](http://www.sublimetext.com/) 3 build 3059 - 
 - [Steam]()
 - [Transmission]() 2.84 - Installed via homebrew.
 - [VLC](http://www.videolan.org/vlc/index.html) 2.1.5 - Installed via homebrew.
