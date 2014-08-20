@@ -23,6 +23,7 @@
 - [OS X]() 10.9.4
 - [Paw]()
 - [SourceTree](http://www.sourcetreeapp.com/) 1.9.7 [Changelog](http://sourcetreeapp.com/update/ReleaseNotes.html) - "OS X: A free Git & Mercurial client for Windows or Mac."
+  - Install command line tools via the Sourcetree menu.
 - [Spectacle](http://spectacleapp.com/) 0.8.5 (14) - "Window control with simple, customizable keyboard shortcuts."
 - [Sublime Text]()
 - [Steam]()
