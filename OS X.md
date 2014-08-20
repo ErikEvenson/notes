@@ -27,4 +27,5 @@
 - [Spectacle](http://spectacleapp.com/) 0.8.5 (14) - "Window control with simple, customizable keyboard shortcuts."
 - [Sublime Text]()
 - [Steam]()
-- [Transmission]() 2.84
+- [Transmission]() 2.84 - Installed via homebrew.
+- [VLC](http://www.videolan.org/vlc/index.html) 2.1.5 - Installed via homebrew.
