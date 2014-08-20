@@ -22,7 +22,7 @@
 - [OmniFocus](https://www.omnigroup.com/omnifocus) 2.0.2/GM-v87.10 [Changelog](http://www.omnigroup.com/releasenotes/omnifocus) - 
 - [OS X]() 10.9.4
 - [Paw]()
-- [SourceTree](http://www.sourcetreeapp.com/) 1.9.6 - OS X: A free Git & Mercurial client for Windows or Mac.
+- [SourceTree](http://www.sourcetreeapp.com/) 1.9.7 [Changelog](http://sourcetreeapp.com/update/ReleaseNotes.html) - "OS X: A free Git & Mercurial client for Windows or Mac."
 - [Spectacle](http://spectacleapp.com/) 0.8.5 (14) - "Window control with simple, customizable keyboard shortcuts."
 - [Sublime Text]()
 - [Steam]()
