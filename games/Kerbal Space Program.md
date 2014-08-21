@@ -33,7 +33,8 @@ A [mod list](http://forum.kerbalspaceprogram.com/threads/55401-Community-Mods-an
 
 Not yet installed
 
-- - [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-0-23-5-Kerbal-Engineer-Redux-v0-6-2-4) 0.6.2.4
+- [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.
+- [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-0-23-5-Kerbal-Engineer-Redux-v0-6-2-4) 0.6.2.4
 - [TacLifeSupport](http://www.curse.com/ksp-mods/kerbal/221022-tac-life-support) 0.8.04
 - [TalCargoSolutions](http://forum.kerbalspaceprogram.com/threads/77505-Cargo-Transportation-Solutions-(WIP) 0.3.4
 - [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369-0-24-SCANsat-v6-1-Real-Scanning-Real-Science-at-Warp-Speed%21-Jul-18) 6.1 - "Real Scanning, Real Science, at Warp Speed!"
