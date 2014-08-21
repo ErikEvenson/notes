@@ -1,4 +1,4 @@
-# KSP notes
+# Kerbal Space Program notes
 
 ## Forum posts
 
@@ -28,12 +28,11 @@ A [mod list](http://forum.kerbalspaceprogram.com/threads/55401-Community-Mods-an
 - [Infernal Robotics](http://forum.kerbalspaceprogram.com/threads/37707-0-24-2-Magic-Smoke-Industries-Infernal-Robotics-0-18-4) 0.18.4 - Will install to folder `MagicSmokeIndustries`.  Don't install Toolbar -- install it seperately.
 - [Kerbal Attach System](http://forum.kerbalspaceprogram.com/threads/53134) 0.4.7 - Install using [hotfix](http://forum.kerbalspaceprogram.com/threads/53134-Kerbal-Attachment-System-%28KAS%29-0-4-7-Pipes-as-fuel-lines-and-even-fewer-explosions%21?p=1340082&viewfull=1#post1340082) instructions.  Use 32-bit.
 - [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com/threads/59545-0-24-2-Extraplanetary-Launchpads-v4-2-3) 4.2.3
-
+- [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.
 
 
 Not yet installed
 
-- [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.
 - [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-0-23-5-Kerbal-Engineer-Redux-v0-6-2-4) 0.6.2.4
 - [TacLifeSupport](http://www.curse.com/ksp-mods/kerbal/221022-tac-life-support) 0.8.04
 - [TalCargoSolutions](http://forum.kerbalspaceprogram.com/threads/77505-Cargo-Transportation-Solutions-(WIP) 0.3.4
