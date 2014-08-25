@@ -30,6 +30,7 @@ These are fundamental development tools that I pay the most attention to.  Insta
 - [OS X]()
 - [PostgreSQL](http://www.postgresql.org/) 9.3.3 - Database.
 	- Manually installed.
+- [puppet](http://puppetlabs.com/) - "Open source Puppet is a flexible, customizable framework available under the Apache 2.0 license designed to help system administrators automate the many repetitive tasks they regularly perform."
 - [python](http://packages.ubuntu.com/precise-updates/python) 2.7.3-0ubuntu2.2 - interactive high-level object-oriented language (default version).  This version is used as the base python for the development environment.
 	- apt-get and manually-install.
 - [python](https://www.python.org/) 2.7.3/2.7.8 - interactive high-level object-oriented language.  Version 2.7.3 is typically used in development VMs based on Ubuntu 12.04.  Version 2.7.8 is the version typically used as a runtime.
