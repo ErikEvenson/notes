@@ -19,6 +19,9 @@ These are fundamental development tools that I pay the most attention to.  Insta
 	- Installed via homebrew or apt-get depending on platform.
 - [heroku toolbelt](https://toolbelt.heroku.com/) 3.8.2 (NOT PINNED) - packages up git, foreman, and the heroku command line interface.
 	- Manually installed.
+- [homebrew](http://brew.sh/) 0.9.5 - "The missing package manager for OS X."
+- [homebrew-cask](http://caskroom.io/) 0.39.3 - "Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike."
+	- Manually installed.
 - [javascript](http://en.wikipedia.org/wiki/Javascript)
 - [jquery](http://jquery.com/) 1.10.2 - "jQuery is a fast, small, and feature-rich JavaScript library."
 	- Bower-installed.
