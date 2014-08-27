@@ -96,5 +96,7 @@ Frequently used secondary tools.
 	- apt-get-installed.
 - [Vagrant](https://github.com/caskroom/homebrew-cask/blob/master/Casks/vagrant.rb) 1.6.3 [Change log](https://github.com/mitchellh/vagrant/blob/master/CHANGELOG.md) - used to manage development environment configuration.
 	- homebrew-cask-installed.
+- [vagrant-librarian-puppet](https://github.com/mhahn/vagrant-librarian-puppet) 0.7.1 - A Vagrant plugin to install Puppet modules using Librarian-Puppet.
+- [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) 0.10.0 - automatically keeps VirtualBox Guest Additions up to date.
 - [VirtualBox](https://github.com/caskroom/homebrew-cask/blob/master/Casks/virtualbox.rb) 4.3.12 [Changelog](https://www.virtualbox.org/wiki/Changelog) 4.3.12-93733 - used to host development environment.
 	- homebrew-cask-installed.
