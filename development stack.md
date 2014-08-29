@@ -50,7 +50,7 @@ These are fundamental development tools that I pay the most attention to.  Insta
 ### Secondary development stack
 
 Frequently used secondary tools.
-
+- [augeas](http://augeas.net/) 1.1.0 - "Augeas is a configuration editing tool."
 - [backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) 2.0.2 - "A pageable, drop-in replacement for Backbone.Collection called Backbone.PageableCollection."
 	- bower-installed.
 - [backbone.picky](https://github.com/derickbailey/backbone.picky) 0.2.0 - "Selectable entities as mixins for Backbone.Model and Backbone.Collection!"
