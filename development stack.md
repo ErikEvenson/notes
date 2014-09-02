@@ -8,6 +8,7 @@ These are fundamental development tools that I pay the most attention to.  Insta
 	- Online service.
 - [backbone](http://backbonejs.org/) 1.1.2 - "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface."
 	- Bower-installed.
+- [bash](http://www.gnu.org/software/bash/manual/bashref.html) 4.2.24 - shell.
 - [bootstrap](http://getbootstrap.com/) 3.1.1 - "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web."
 	- Bower-installed.
 	- Version 3.2.0 is available.
