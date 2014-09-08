@@ -16,7 +16,7 @@ These are fundamental development tools that I pay the most attention to.
 - [celery]()
 - [CentOS](http://www.centos.org/) 5.9 - 
 - [Coffeescript](https://www.npmjs.org/package/coffee-script) 1.7.1 - "A little language that compiles into JavaScript."
-- [cPanel/WHM](http://cpanel.net/) [Changelog](https://documentation.cpanel.net/display/ALD/Change+Logs) 11.44.1b17 - 
+- [cPanel/WHM](http://cpanel.net/) [Changelog](https://documentation.cpanel.net/display/ALD/Change+Logs) 11.44.1.17 - 
 - [git](http://git-scm.com/) 2.1.0 - "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency." 
 - [heroku toolbelt](https://toolbelt.heroku.com/) 3.8.2 (NOT PINNED) - packages up git, foreman, and the heroku command line interface.
 - [homebrew](http://brew.sh/) 0.9.5 - "The missing package manager for OS X."
