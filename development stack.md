@@ -26,6 +26,7 @@ These are fundamental development tools that I pay the most attention to.
 	- Version 1.11.1 and 2.1.1 are available.
 - [marionette](http://marionettejs.com/) 1.7.4 - "Backbone.Marionette is a composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications."
 - [node](http://nodejs.org/) 0.10.28 - Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.  Note that npm comes with node now.
+- [OpenSSH](http://www.openssh.com/)
 - [OS X]()
 - [PostgreSQL](http://www.postgresql.org/) 9.3.3 - Database.
 - [puppet](http://puppetlabs.com/) - "Open source Puppet is a flexible, customizable framework available under the Apache 2.0 license designed to help system administrators automate the many repetitive tasks they regularly perform."
