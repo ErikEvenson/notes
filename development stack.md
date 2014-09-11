@@ -51,6 +51,7 @@ Frequently used secondary tools.
 - [bootstrap3-datetimepicker](http://eonasdan.github.io/bootstrap-datetimepicker/) 3.0.0 - "Date/time picker widget for Twitter Bootstrap v3."
 - [build-essential](http://packages.ubuntu.com/precise-updates/build-essential) 11.5ubuntu2.1 - Informational list of build-essential packages.
 - [curl](http://packages.ubuntu.com/precise/curl) 7.22.0-3ubuntu4.8 - Get a file from an HTTP, HTTPS or FTP server.
+- [EasyApache](https://documentation.cpanel.net/display/EA/EasyApache) 3.26.7 - "EasyApache is software that installs, modifies, and validates your Apache web server, PHP, Tomcat, and other components of your web server."
 - [flex](http://packages.ubuntu.com/precise/flex) 2.5.35-10ubuntu3 - A fast lexical analyzer generator.
 - [ghostscript](http://packages.ubuntu.com/precise-updates/ghostscript) 9.05~dfsg-0ubuntu4.2 - an interpreter for the PostScript language and for PDF.  There may be a version pre-installed on heroku that is shadowing this version.
 - [json2](https://github.com/douglascrockford/JSON-js) * - "JSON is a light-weight, language independent, data interchange format."
