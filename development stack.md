@@ -5,7 +5,7 @@
 These are fundamental development tools that I pay the most attention to.
 
 - [Amazon Simple Storage Service (Amazon S3)](http://aws.amazon.com/s3/) - "Amazon S3 is storage for the Internet."
-- [Apache]()
+- [Apache]() 2.2
 - [assemble](http://assemble.io/)
 - [backbone](http://backbonejs.org/) 1.1.2 - "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface."
 - [bash](http://www.gnu.org/software/bash/manual/bashref.html) 4.2.24 - shell.
