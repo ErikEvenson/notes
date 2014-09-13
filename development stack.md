@@ -14,7 +14,7 @@ These are fundamental development tools that I pay the most attention to.
 	- Some of 3E Enterprise's legacy code uses version 2.x.
 - [bower]() 1.3.8 -
 - [celery]()
-- [CentOS](http://www.centos.org/) 5.9 - 
+- [CentOS](http://www.centos.org/) 6.3 - 
 - [Coffeescript](https://www.npmjs.org/package/coffee-script) 1.7.1 - "A little language that compiles into JavaScript."
 - [cPanel/WHM](http://cpanel.net/) [Changelog](https://documentation.cpanel.net/display/ALD/Change+Logs) 11.44.1.17 - 
 - [git](http://git-scm.com/) 2.1.0 - "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency." 
