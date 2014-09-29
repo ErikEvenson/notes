@@ -46,13 +46,11 @@ Not yet installed
 - [NavInstruments](https://github.com/kujuman/NavInstruments) 0.3.1 - Custom runways supported per [forum post](http://forum.kerbalspaceprogram.com/threads/85353-0-23-5-NavUtilities-ft-HSI-Instrument-Landing-System-v0-3-1-%2AJuly-9-2014%2A).
 - [Ferram-Aerospace-Research](https://github.com/ferram4/Ferram-Aerospace-Research) 0.13.3
 - [KSP Interstellar](https://github.com/FractalUK/KSPInterstellar) 0.11 - Will install ModuleManager_1_5_6.dll, and three submods: OpenResourceSystem, TreeLoader, and WarpPlugin.  Technology tree will update on first install.
-
+- [RemoteTech2](http://forum.kerbalspaceprogram.com/threads/83305-0-24-2-RemoteTech-2-v1-4-1) 1.4.1
 
 Not yet advertised as compatible with 0.24.2:
 
-- [RemoteTech2](http://cilph.github.io/RemoteTech2/) 1.4.0 - Will install ModuleManager.2.1.5.dll.
-
-
+- ...
 
 ### 0.23.5.464 mod install
 
