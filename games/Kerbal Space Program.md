@@ -8,6 +8,16 @@
 
 A [mod list](http://forum.kerbalspaceprogram.com/threads/55401-Community-Mods-and-Plugins-Library).
 
+### Available updates
+
+- Kerbal Alarm Clock 2.7.5.0 to 2.7.8.2
+- Kethane 0.8.8.1 to 0.9
+- Module Manager 2.2.1 to 2.3.5
+- TweakScale 1.37 to 1.43
+- Infernal Robotics 0.18.4 to 0.19a
+- Kerbal Attachment System from 0.4.7 to 0.4.8
+
+
 ### 0.24.2.559 mod install
 
 - Settings update.
@@ -28,7 +38,7 @@ A [mod list](http://forum.kerbalspaceprogram.com/threads/55401-Community-Mods-an
 - [Infernal Robotics](http://forum.kerbalspaceprogram.com/threads/37707-0-24-2-Magic-Smoke-Industries-Infernal-Robotics-0-18-4) 0.18.4 - Will install to folder `MagicSmokeIndustries`.  Don't install Toolbar -- install it seperately.
 - [Kerbal Attach System](http://forum.kerbalspaceprogram.com/threads/53134) 0.4.7 - Install using [hotfix](http://forum.kerbalspaceprogram.com/threads/53134-Kerbal-Attachment-System-%28KAS%29-0-4-7-Pipes-as-fuel-lines-and-even-fewer-explosions%21?p=1340082&viewfull=1#post1340082) instructions.  Use 32-bit.
 - [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com/threads/59545-0-24-2-Extraplanetary-Launchpads-v4-2-3) 4.2.3
-- [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.
+- [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.  Will install in Kerbaltek.
 
 
 Not yet installed
