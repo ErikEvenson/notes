@@ -11,11 +11,7 @@
 
 ### Available updates
 
-- Module Manager 2.2.1 to 2.3.5
-- TweakScale 1.37 to 1.43
-- Infernal Robotics 0.18.4 to 0.19a
-- Kerbal Attachment System from 0.4.7 to 0.4.8
-
+- ...
 
 ### 0.24.2.559 mod install
 
@@ -32,10 +28,10 @@
 	- Edit fuel crossfeed
 
 - [Toolbar](http://forum.kerbalspaceprogram.com/threads/60863-0-24-2-Toolbar-1-7-6-Common-API-for-draggable-resizable-buttons-toolbar) 1.7.6
-- [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219-Module-Manager-2-2-1-%28August-3%29-The-pony-is-not-here-yet-edition) 2.2.1
-- [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-24-2-TweakScale-Rescale-Everything%21-%28v1-37-2014-08-05-13-35-UTC%29) 1.37 - Required for Infernal Robotics.
-- [Infernal Robotics](http://forum.kerbalspaceprogram.com/threads/37707-0-24-2-Magic-Smoke-Industries-Infernal-Robotics-0-18-4) 0.18.4 - Will install to folder `MagicSmokeIndustries`.  Don't install Toolbar -- install it seperately.
-- [Kerbal Attach System](http://forum.kerbalspaceprogram.com/threads/53134) 0.4.7 - Install using [hotfix](http://forum.kerbalspaceprogram.com/threads/53134-Kerbal-Attachment-System-%28KAS%29-0-4-7-Pipes-as-fuel-lines-and-even-fewer-explosions%21?p=1340082&viewfull=1#post1340082) instructions.  Use 32-bit.
+- [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219-Module-Manager-2-3-5-%28Sept-14%29-Loading-Speed-Fix) 2.3.5
+- [TweakScale](http://forum.kerbalspaceprogram.com/threads/80234-24-2-TweakScale-Rescale-Everything%21-%28v1-43-2014-08-23-52-UTC%29) 1.43 - Required for Infernal Robotics.
+- [Infernal Robotics](http://forum.kerbalspaceprogram.com/threads/37707-0-24-2-Magic-Smoke-Industries-Infernal-Robotics-0-19a) 0.19a - Will install to folder `MagicSmokeIndustries`.  Don't install Toolbar -- install it seperately.
+- [Kerbal Attach System](http://forum.kerbalspaceprogram.com/threads/92514-0-24-2-Kerbal-Attachment-System-%28KAS%29-0-4-8-Fixed-for-0-24-2-x86-x64-%29) 0.4.8
 - [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com/threads/59545-0-24-2-Extraplanetary-Launchpads-v4-2-3) 4.2.3
 - [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.  Will install in Kerbaltek.
 
