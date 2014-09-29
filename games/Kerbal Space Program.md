@@ -10,7 +10,6 @@ A [mod list](http://forum.kerbalspaceprogram.com/threads/55401-Community-Mods-an
 
 ### Available updates
 
-- Kerbal Alarm Clock 2.7.5.0 to 2.7.8.2
 - Kethane 0.8.8.1 to 0.9
 - Module Manager 2.2.1 to 2.3.5
 - TweakScale 1.37 to 1.43
@@ -22,7 +21,7 @@ A [mod list](http://forum.kerbalspaceprogram.com/threads/55401-Community-Mods-an
 
 - Settings update.
 - [MechJeb2](http://forum.kerbalspaceprogram.com/threads/12384-PART-0-24-2-Anatid-Robotics-MuMech-MechJeb-Autopilot-v2-3-1) 2.3.1.0 - Autopilot.
-- [Kerbal Alarm Clock](http://forum.kerbalspaceprogram.com/threads/24786-0-24-2-Kerbal-Alarm-Clock-v2-7-8-2-%28July-28%29) 2.7.5.0 - Ends up in a `TriggerTech` folder.
+- [Kerbal Alarm Clock](http://forum.kerbalspaceprogram.com/threads/24786-0-24-2-Kerbal-Alarm-Clock-v2-7-8-2-%28July-28%29) 2.7.8.2 - Ends up in a `TriggerTech` folder.
 - [Editor Extensions](http://forum.kerbalspaceprogram.com/threads/38768-0-24-Editor-Extensions-v1-3-19-Jul-2014-%28EdTools-Editor-Tools-replacement%29) 1.3
 - [Kethane](http://forum.kerbalspaceprogram.com/threads/23979-Kethane-Pack-0-8-8-Rebalanced-converters-faster-scanning-and-0-24-compatibility) 0.8.8.1 - Will install ModStatistics automatically.  Includes [hotfix](http://forum.kerbalspaceprogram.com/threads/23979?p=1313690&viewfull=1#post1313690) for 0.24.2 compatibility.
 - [ModStatistics](http://forum.kerbalspaceprogram.com/threads/81764-ModStatistics) 1.0.3
