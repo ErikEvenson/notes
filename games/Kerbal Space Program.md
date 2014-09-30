@@ -11,7 +11,7 @@
 
 ### Available updates
 
-- ...
+- Infernal Robotics 0.19a -> 0.19.1
 
 ### 0.24.2.559 mod install
 
