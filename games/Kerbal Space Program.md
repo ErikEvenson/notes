@@ -34,7 +34,7 @@
 - [Kerbal Attach System](http://forum.kerbalspaceprogram.com/threads/92514-0-24-2-Kerbal-Attachment-System-%28KAS%29-0-4-8-Fixed-for-0-24-2-x86-x64-%29) 0.4.8
 - [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com/threads/59545-0-24-2-Extraplanetary-Launchpads-v4-2-3) 4.2.3
 - [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.  Will install in Kerbaltek.
-
+- [RemoteTech2](http://forum.kerbalspaceprogram.com/threads/83305-0-24-2-RemoteTech-2-v1-4-1) 1.4.1
 
 Not yet installed
 
@@ -46,7 +46,7 @@ Not yet installed
 - [NavInstruments](https://github.com/kujuman/NavInstruments) 0.3.1 - Custom runways supported per [forum post](http://forum.kerbalspaceprogram.com/threads/85353-0-23-5-NavUtilities-ft-HSI-Instrument-Landing-System-v0-3-1-%2AJuly-9-2014%2A).
 - [Ferram-Aerospace-Research](https://github.com/ferram4/Ferram-Aerospace-Research) 0.13.3
 - [KSP Interstellar](https://github.com/FractalUK/KSPInterstellar) 0.11 - Will install ModuleManager_1_5_6.dll, and three submods: OpenResourceSystem, TreeLoader, and WarpPlugin.  Technology tree will update on first install.
-- [RemoteTech2](http://forum.kerbalspaceprogram.com/threads/83305-0-24-2-RemoteTech-2-v1-4-1) 1.4.1
+
 
 Not yet advertised as compatible with 0.24.2:
 
