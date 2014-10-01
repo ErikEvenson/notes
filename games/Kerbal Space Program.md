@@ -35,11 +35,11 @@
 - [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com/threads/59545-0-24-2-Extraplanetary-Launchpads-v4-2-3) 4.2.3
 - [Hyperedit](http://www.kerbaltekaerospace.com/?page=hyperedit) HyperEdit-1.2.4.2_for-KSP-0.21.1+ - HyperEdit is the ultimate cheat plugin for KSP.  Will install in Kerbaltek.
 - [RemoteTech2](http://forum.kerbalspaceprogram.com/threads/83305-0-24-2-RemoteTech-2-v1-4-1) 1.4.1
+- [TacLifeSupport](http://forum.kerbalspaceprogram.com/threads/40667-0-24-2-TAC-Life-Support-v0-10-29Aug-No-Win64-Support) 0.10
 
 Not yet installed
 
 - [Kerbal Engineer Redux](http://forum.kerbalspaceprogram.com/threads/18230-0-23-5-Kerbal-Engineer-Redux-v0-6-2-4) 0.6.2.4
-- [TacLifeSupport](http://www.curse.com/ksp-mods/kerbal/221022-tac-life-support) 0.8.04
 - [TalCargoSolutions](http://forum.kerbalspaceprogram.com/threads/77505-Cargo-Transportation-Solutions-(WIP) 0.3.4
 - [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369-0-24-SCANsat-v6-1-Real-Scanning-Real-Science-at-Warp-Speed%21-Jul-18) 6.1 - "Real Scanning, Real Science, at Warp Speed!"
 - [SteamGuages](http://forum.kerbalspaceprogram.com/threads/40730-0-23-5-SteamGauges-V1-5-1-Analog-Radar-Altimeter-and-More!) 1.5.1
