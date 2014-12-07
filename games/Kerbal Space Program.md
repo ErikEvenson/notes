@@ -13,6 +13,11 @@
 
 - Infernal Robotics 0.19a -> 0.19.1
 
+### 0.25.0.642 mod install
+
+- Settings update.
+- [MechJeb2](http://forum.kerbalspaceprogram.com/threads/12384) 2.4.0.0 - Autopilot.
+- 
 ### 0.24.2.559 mod install
 
 - Settings update.
