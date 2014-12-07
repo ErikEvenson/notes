@@ -17,7 +17,8 @@
 
 - Settings update.
 - [MechJeb2](http://forum.kerbalspaceprogram.com/threads/12384) 2.4.0.0 - Autopilot.
-- 
+- [RemoteTech2](http://forum.kerbalspaceprogram.com/threads/83305) 1.5.1
+
 ### 0.24.2.559 mod install
 
 - Settings update.
