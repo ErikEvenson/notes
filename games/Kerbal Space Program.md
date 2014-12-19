@@ -13,6 +13,13 @@
 
 - Infernal Robotics 0.19a -> 0.19.1
 
+### 0.90.0.705 beta
+
+[Mod compatability thread](http://forum.kerbalspaceprogram.com/threads/103093-Official-Mod-Compatibility-Thread-for-90)
+
+- Settings update.
+- 
+
 ### 0.25.0.642 mod install
 
 - Settings update.
