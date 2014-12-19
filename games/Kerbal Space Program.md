@@ -18,7 +18,7 @@
 [Mod compatability thread](http://forum.kerbalspaceprogram.com/threads/103093-Official-Mod-Compatibility-Thread-for-90)
 
 - Settings update.
-- 
+- [MechJeb2](http://forum.kerbalspaceprogram.com/threads/12384) 2.4.1.0-366 - Autopilot.
 
 ### 0.25.0.642 mod install
 
