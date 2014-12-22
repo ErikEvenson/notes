@@ -20,7 +20,6 @@
 - Settings update.
 - [MechJeb2](http://forum.kerbalspaceprogram.com/threads/12384) 2.4.1.0-366 - Autopilot.
 - [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219) 2.5.6 - ModuleManager is mod that let you write patch file that edit other part at load time.
-- 
 
 ### 0.25.0.642 mod install
 
