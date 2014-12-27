@@ -22,6 +22,7 @@
 - [ModuleManager](http://forum.kerbalspaceprogram.com/threads/55219) 2.5.6 - ModuleManager is mod that let you write patch file that edit other part at load time.
 - [Toolbar](http://forum.kerbalspaceprogram.com/threads/60863) 1.7.7 - Common API for GUI toolbars in KSP.  Edit `version.txt` to add 0.90.0.
 - [RemoteTech2](http://forum.kerbalspaceprogram.com/threads/83305-0-25-0-RemoteTech-v1-5-1) 1.5.2
+- [Kerbal Alarm Clock](http://forum.kerbalspaceprogram.com/threads/24786-0-90-Kerbal-Alarm-Clock-v3-0-6-0-%28Dec-18%29) 3.0.6.0 - Ends up in a `TriggerTech` folder.
 
 ### 0.25.0.642 mod install
 
