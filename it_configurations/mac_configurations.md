@@ -229,7 +229,7 @@ Use:
       * KAS
       * Editor Extensions
   * sublime-text3
-    * package control
+    * [package control](https://packagecontrol.io/installation#st3)
       * better coffeescript
       * eco
       * sublimelinter
