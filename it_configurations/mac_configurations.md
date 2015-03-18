@@ -62,6 +62,7 @@ Need to update this section for Yosemite.
   * Require password 5 seconds after sleep or screen saver begins
   * Require an administrator to access locked preferenes (advanced)
   * Disable remote control infrared receiver (advanced)
+  * Enable FileVault
 * Spotlight
   * Turn off shortcuts
 * Notifications:
