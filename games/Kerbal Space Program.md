@@ -1,5 +1,7 @@
 # Kerbal Space Program notes
 
+A lot of this is OBE with the availability of CKAN.  Install mono-mdk via homebrew first.
+
 ## Forum posts
 
 - [Undocking issue](http://forum.kerbalspaceprogram.com/threads/90942-Undocking-Issue-on-Mun-Station)
