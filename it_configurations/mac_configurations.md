@@ -140,12 +140,9 @@ Limit to apps needed for install.
 * Install system updates
 * Xcode
   * Install device support
-  * Install command line tools (automatic with Mavericks)
+  * Install command line tools (automatic with Mavericks+)
   * Set to update automatically
   * Download other components and documentation as desired
-* iPhoto
-  * General, connecting camera opens no application
-  * Connect to server hosted photo library if possible
 
 ### Bash profile file
 Use:
@@ -171,7 +168,7 @@ Use:
 * Set `export PATH="/usr/local/bin:${PATH}"` in `.bash_profile` and `source .bash_profile` (above in bash profile file)
 * `brew doctor`
 * brew install group:
-  * `brew install git mongodb node phantomjs scons tree z`
+  * `brew install git tree z`
 
 ### [Homebrew cask](https://github.com/phinze/homebrew-cask)
 
@@ -179,7 +176,7 @@ Use:
 - Install homebrew cask per website.  Currently, this is
   - `brew install caskroom/cask/brew-cask`
 - Add [homebrew-versions](https://github.com/caskroom/homebrew-versions) - "alternate versions of Casks for homebrew-cask"
-  - `brew tap caskroom/versions`
+  - `brew tap homebrew/versions`
 * Set HOMEBREW_CASK_OPTS per [these instructions](https://github.com/phinze/homebrew-cask/blob/master/USAGE.md#options) and restart.  Currently this is `export HOMEBREW_CASK_OPTS="--appdir=/Applications"` in `.bash_profile` and `source .bash_profile`
 * brew cask install group:
   * `brew cask install dropbox`
@@ -188,7 +185,9 @@ Use:
   * Disable camera input
   * Set selective sync
 * brew cask install group:
-  * `brew cask install alfred bittorrent-sync colloquy cyberduck firefox github gnucash google-chrome google-hangouts google-drive handbrake inkscape minecraft mongo mumble pandoc postgres silverlight skype sourcetree spectacle steam submlime-text3 textmate transmission unrarx virtualbox vagrant vlc xquartz`
+  * `brew cask install alfred bittorrent-sync colloquy firefox gnucash google-chrome google-drive google-hangouts graphviz handbrake minecraft mono-mdk mou mumble silverlight skype sourcetree spectacle steam sublime-text3 teamspeak-client textmate transmission unrarx vagrant virtualbox vlc xquartz`
+  * `brew cask install inkscape`
+
 * Add to homebrew cask search scope to Alfred per [usage instructions](https://github.com/phinze/homebrew-cask/blob/master/USAGE.md).  Currently, this is `/opt/homebrew-cask/Caskroom`.  Start typing in the search scope selection dialog to enter the path.  Note, directory won't exist until after first install.
 * Activate Alfred Powerpack
 * Open and close firefox and chrome.
