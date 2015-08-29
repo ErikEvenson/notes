@@ -176,7 +176,7 @@ Use:
 - Install homebrew cask per website.  Currently, this is
   - `brew install caskroom/cask/brew-cask`
 - Add [homebrew-versions](https://github.com/caskroom/homebrew-versions) - "alternate versions of Casks for homebrew-cask"
-  - `brew tap homebrew/versions`
+  - `brew tap caskroom/versions`
 * Set HOMEBREW_CASK_OPTS per [these instructions](https://github.com/phinze/homebrew-cask/blob/master/USAGE.md#options) and restart.  Currently this is `export HOMEBREW_CASK_OPTS="--appdir=/Applications"` in `.bash_profile` and `source .bash_profile`
 * brew cask install group:
   * `brew cask install dropbox`
@@ -189,10 +189,11 @@ Use:
   * `brew cask install inkscape`
 
 * Add to homebrew cask search scope to Alfred per [usage instructions](https://github.com/phinze/homebrew-cask/blob/master/USAGE.md).  Currently, this is `/opt/homebrew-cask/Caskroom`.  Start typing in the search scope selection dialog to enter the path.  Note, directory won't exist until after first install.
-* Activate Alfred Powerpack
 * Open and close firefox and chrome.
 * brew cask install group:
   * `brew cask install lastpass backblaze-downloader`
+* Run lastpass installer
+* Activate Alfred Powerpack
 * Backblaze
 * Individual apps (best order):
   * alfred
