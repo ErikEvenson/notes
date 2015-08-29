@@ -339,6 +339,8 @@ Other useful apps.
   * Parental
   * Devices
   * Advanced
+* Bittorrent-sync
+  * link
 
 ## oilplus
 
