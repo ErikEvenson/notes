@@ -185,7 +185,7 @@ Use:
   * Disable camera input
   * Set selective sync
 * brew cask install group:
-  * `brew cask install alfred bittorrent-sync colloquy firefox gnucash google-chrome google-drive google-hangouts graphviz handbrake minecraft mono-mdk mou mumble silverlight skype sourcetree spectacle steam sublime-text3 teamspeak-client textmate transmission unrarx vagrant virtualbox vlc xquartz`
+  * `brew cask install alfred backblaze bittorrent-sync colloquy firefox gnucash google-chrome google-drive google-hangouts graphviz handbrake minecraft mono-mdk mou mumble node silverlight skype sourcetree spectacle steam sublime-text3 teamspeak-client textmate transmission unrarx vagrant virtualbox vlc xquartz`
   * `brew cask install inkscape`
 
 * Add to homebrew cask search scope to Alfred per [usage instructions](https://github.com/phinze/homebrew-cask/blob/master/USAGE.md).  Currently, this is `/opt/homebrew-cask/Caskroom`.  Start typing in the search scope selection dialog to enter the path.  Note, directory won't exist until after first install.
@@ -207,9 +207,9 @@ Use:
     * No throttle, faster backups
     * No size limit
   * firefox
-    * Setup sync
+    * Signin (may need to create account)
   * sourcetree (do not install via the App Store!!)
-    * Re-register
+    * Re-register (atlassian)
     * Use the setup wizard
     * Add accounts
     * Set project folder
@@ -226,21 +226,18 @@ Use:
   * steam
     * Remove from login items
     * Kerbal Space Program
-      * MechJeb
-      * KAS
-      * Editor Extensions
   * sublime-text3
     * [package control](https://packagecontrol.io/installation#st3)
       * better coffeescript
       * eco
       * sublimelinter
         * sublimelinter-coffee
-          * `npm install -g coffee-script` first.
+          * `sudo npm install -g coffee-script` first.
         * sublimelinter-json
         * sublimelinter-pylint
           * `sudo easy_intall pip`
           * `pip install pylint`
-  * textmate
+  * textmate (optional)
     * Add to `.bash_profile`: `export EDITOR="/usr/local/bin/mate -w"` and `source .bash_profile` (from bash profile above)
     * Add coffeescript, python django, python django templates, and reStructuredText bundles
     * Watch for nightly builds
@@ -252,6 +249,7 @@ Use:
       * `{*,.bowerrc,.buildpacks,.buildpacks_bin_download,.coveragerc,.env,.gitattributes,.gitignore,.htaccess,.jshintrc,.noserc,.pylintrc,.slugignore,.tm_properties}`
     * Trailing whitespace: [http://tm2tips.tumblr.com/post/42657705618/strip-trailing-whitespace-on-save-with-callbacks](http://tm2tips.tumblr.com/post/42657705618/strip-trailing-whitespace-on-save-with-callbacks)
   * transmission (capture settings)
+    Automatically size window
     Blocklist: http://john.bitsurge.net/public/biglist.p2p.gz
   * vlc
     * Set update checking.
@@ -259,16 +257,12 @@ Use:
 ## Transfers
 
 * Get ssh keys if transferring:
-  * `scp eevenson@airframe.local:.ssh/id_rsa* .`
+  * `scp -rp eevenson@airframe.local:.ssh/id_rsa* .`
 
 ### App store 2
 
 Other useful apps.
 
-* 3Hub
-  * Add buckets
-  * Use https
-  * Set download folder
 * Downcast
   * iCloud connection
 * Twitter
@@ -282,18 +276,6 @@ Other useful apps.
 
 ### Other installs
 
-* Remote desktop
-* [BasicTexX](http://www.tug.org/mactex/morepackages.html) -- after installing:
-  - `sudo tlmgr update --self`
-  - amssymb (?)
-  - longtable (?)
-  - graphicx (?)
-  - `sudo tlmgr install ulem`
-* RubyGems
-  * `sudo gem update --system`
-  * `sudo gem install foreman compass`
-* Node package manager
-  * `npm install -g yo generator-webapp`
 * [Eve Online](https://secure.eveonline.com/Download)
   - Turn off gatekeeper for first start (be sure to turn back on)
   - Auto play
@@ -357,9 +339,6 @@ Other useful apps.
   * Parental
   * Devices
   * Advanced
-* vagrant
-  * `vagrant plugin install vagrant-vbguest`
-  * Might need: `sudo /Library/StartupItems/VirtualBox/VirtualBox restart` per [http://end.io/virtualbox-on-os-x-10-9-mavericks/](http://end.io/virtualbox-on-os-x-10-9-mavericks/)
 
 ## oilplus
 
