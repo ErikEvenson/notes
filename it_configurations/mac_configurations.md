@@ -227,6 +227,7 @@ Use:
     * Remove from login items
     * Kerbal Space Program
   * sublime-text3
+    * register
     * [package control](https://packagecontrol.io/installation#st3)
       * better coffeescript
       * eco
