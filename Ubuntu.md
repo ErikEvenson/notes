@@ -1,5 +1,7 @@
 # Install notes for Ubuntu
 
+Best instructions for dual booting I have found are [http://askubuntu.com/questions/688632/dual-boot-mac-el-captain-along-with-ubuntu-14-04/688692?stw=2#688692](http://askubuntu.com/questions/688632/dual-boot-mac-el-captain-along-with-ubuntu-14-04/688692?stw=2#688692).
+
 Get the Ubuntu install disk from [Ubuntu](http://www.ubuntu.com/download/desktop/).
 
 - Partition...
